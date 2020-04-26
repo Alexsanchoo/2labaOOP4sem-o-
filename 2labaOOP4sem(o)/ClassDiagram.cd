@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Shop">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAgAgAAAAAAAgAAAAAAAAABAAADEAABAAAAEJAAAAAA=</HashCode>
+      <FileName>Shop.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Owner">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAECCAAgAQAAAAAAAAAAAIAAEAABEAAAEAAAAAAA=</HashCode>
+      <FileName>Owner.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Product">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAIABCAAAgAAAAAAAAAAAAEAABiACAEAAAAAAA=</HashCode>
+      <FileName>Product.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkMode">
+    <Position X="9.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAoEAEAIAAAAAAAAQAAAAACAAAAAAAAAIkAAIAQA=</HashCode>
+      <FileName>WorkMode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExpShop">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAIAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExpShop.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Milk">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGAABAAAAEAAAAAAAAAAAAAAAAAAAAAIAACAAAAAIA=</HashCode>
+      <FileName>Milk.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bread">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAQAAAAABAAgAAQAAABACAAAAA=</HashCode>
+      <FileName>Bread.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sausage">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABEAAAAAAAAAAAAAEQABAAEAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sausage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="TypeProduct">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAACAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Product.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
