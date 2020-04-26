@@ -20,10 +20,10 @@ void Milk::setWaterPercent(double percent)
 
 double Milk::getFatPercent()
 {
-	return 0.0;
+	return fatPercent;
 }
 
 double Milk::getWaterPercent()
 {
-	return 0.0;
+	return waterPercent;
 }
